@@ -3,19 +3,19 @@
 # Note-Taker
 
 ## Table of Contents:
-1.[Description](##-Description)
+1.[Description](#Description)
 
-2.[Installation](##-Installation)
+2.[Installation](#Installation)
 
-3.[Usage](##-Usage)
+3.[Usage](#Usage)
 
-4.[Contributions](##-Contributions)
+4.[Contributions](#Contributions)
 
-5.[Tests](##-Tests)
+5.[Tests](#Tests)
 
-6.[Questions](##-Questions)
+6.[Questions](#Questions)
 
-7.[License](##-License)
+7.[License](#License)
 
 
 ## Description
