@@ -22,7 +22,7 @@
 I would like users to be able to save and delete notes in an online app.
 
 ## Installation
-Requires nodejs to be installed and to run npm i to install uuid and express or if looking for the online note taker follow this link: https://secure-everglades-65711-757b2dc829f2.herokuapp.com/notes
+Requires nodejs to be installed and to run npm i to install uuid and express or if looking for the online note taker follow this link: https://secure-everglades-65711-757b2dc829f2.herokuapp.com
 
 ## Usage
 Once the user has opened up the website they will be introduced to the home screen:
